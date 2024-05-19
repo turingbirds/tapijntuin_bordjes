@@ -1,5 +1,4 @@
-Bordjes voor de Tapijntuin
-==========================
+# Bordjes voor de Tapijntuin
 
 Het doel was om natuurvriendelijke naambordjes te ontwikkelen voor de Tapijntuin in Maastricht. De naambordjes zijn er om de bedden te kunnen nummeren en zodat bezoekers kunnen lezen welke soorten er zoal groeien.
 
@@ -12,42 +11,35 @@ Het idee was om de bordjes te graveren met een lasergraveermachine. Hierbij word
 
 
 
-Budget
-------
+## Budget
 
 Ronde stok beuken d = 12 mm, lengte 50 cm      € 0.94 per stuk
 Schaaflat vuren 18x117mm 210cm   €9,99, 36 bordjes --> 0,28/bordje
 laser time €35 -> 1h
 
 
-Graveren van verschillende houtsoorten
---------------------------------------
+## Graveren van verschillende houtsoorten
 
 Bij het graveren is het handig om er twee keer overheen te gaan: één keer met de scan/swing in de X-richting, en éénmaal in de Y-richting.
 
 
-
-Vuren + Movingui
-++++++++++++++++
+### Vuren + Movingui
 
 ![foto van het houdertje](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240517_201923.JPG?raw=true)
 
 
-Padauk
-++++++
+### Padauk
 
 ![foto van het houdertje](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240517_201808.JPG?raw=true)
 
 
 
-Nabehandeling met olie
-----------------------
+## Nabehandeling met olie
 
 Lijnzaadolie
 
 
-Montage van het stokje
-----------------------
+## Montage van het stokje
 
 Het hout is 15 mm dik. Op een hoek van 45 kan tot ongeveer 20 mm ingeboord worden.
 
@@ -64,8 +56,7 @@ Om de boor te centreren, boor eerst op 90 voor met een diepte van 1 cm. Plaats h
 Het stokje heeft een diameter van 12 mm. Snij het stokje met een stanleymesje een beetje taps toe om het dan in het boorgat achterin het bordje te wurmen. Met wat duwen en draaien zit het al snel vrij solide vast.
 
 
-Ontwerp
--------
+## Ontwerp
 
 - Ontwerp de bordjes in Inkscape (versie ten minste 1.3.2). Sla op als SVG.
 - Voor alle tekstobjecten: convert to path.
@@ -76,7 +67,6 @@ Ontwerp
 - Voor het instellen van de X-swing of Y-swing: dubbelklik op de kleur bovenin rechts, kies dan onder "Scan mode".
 
 
-Licentie
---------
+## Licentie
 
 `Open-source hardware <https://www.oshwa.org/>`_ is hardware waarvan het ontwerp publiekelijk beschikbaar is, zodat iedereen het kan bestuderen, modificeren, bouwen en verkopen, onderhevig aan de *CERN Open Hardware Licence Version 2 - Weakly Reciprocal,* waarvan een (Engelstalige) kopie beschikbaar is op dit repository at `cern_ohl_w_v2.txt <https://github.com/turingbirds/tapijntuin_bordjes/blob/master/cern_ohl_w_v2.txt>`_.
