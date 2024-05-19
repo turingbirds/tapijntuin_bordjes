@@ -25,12 +25,12 @@ Bij het graveren is het handig om er twee keer overheen te gaan: één keer met 
 
 ### Vuren + Movingui
 
-![foto van het houdertje](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240517_201923.JPG?raw=true)
+![foto vuren + movingui](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240517_201856.JPG?raw=true)
 
 
 ### Padauk
 
-![foto van het houdertje](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240517_201808.JPG?raw=true)
+![foto padauk](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240517_201808.JPG?raw=true)
 
 
 
