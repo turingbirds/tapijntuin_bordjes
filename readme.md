@@ -69,4 +69,4 @@ Het stokje heeft een diameter van 12 mm. Snij het stokje met een stanleymesje ee
 
 ## Licentie
 
-`Open-source hardware <https://www.oshwa.org/>`_ is hardware waarvan het ontwerp publiekelijk beschikbaar is, zodat iedereen het kan bestuderen, modificeren, bouwen en verkopen, onderhevig aan de *CERN Open Hardware Licence Version 2 - Weakly Reciprocal,* waarvan een (Engelstalige) kopie beschikbaar is op dit repository at `cern_ohl_w_v2.txt <https://github.com/turingbirds/tapijntuin_bordjes/blob/master/cern_ohl_w_v2.txt>`_.
+`Open-source hardware <https://www.oshwa.org/>`_ is hardware waarvan het ontwerp publiekelijk beschikbaar is, zodat iedereen het kan bestuderen, modificeren, bouwen en verkopen, onderhevig aan de *CERN Open Hardware Licence Version 2 - Weakly Reciprocal,* waarvan een (Engelstalige) kopie beschikbaar is op dit repository at [cern_ohl_w_v2.txt](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/cern_ohl_w_v2.txt>).
