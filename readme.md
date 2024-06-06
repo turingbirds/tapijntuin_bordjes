@@ -1,8 +1,10 @@
 # Bordjes voor de Tapijntuin
 
-Het doel was om natuurvriendelijke naambordjes te ontwikkelen voor de Tapijntuin in Maastricht. De naambordjes zijn er om de bedden te kunnen nummeren en zodat bezoekers kunnen lezen welke soorten er zoal groeien.
+Het doel was om natuurvriendelijke naambordjes te ontwikkelen voor de [Tapijntuin in Maastricht](https://tapijntuin.nl/). De naambordjes zijn er om de bedden te kunnen nummeren en zodat bezoekers kunnen lezen welke soorten er zoal groeien.
 
 Het idee was om de bordjes te graveren met een lasergraveermachine. Hierbij wordt geen afval gecreëerd. Het hout is massief (zonder lijm of andere toevoegingen) en het stokje wordt ook simpelweg geklemd, zonder lijm te hoeven gebruiken.
+
+Hoewel de bordjes misschien niet zo lang meegaan als plastic bordjes, zijn ze volledig circulair doordat ze simpelweg op de composthoop kunnen als ze niet meer goed zijn.
 
 ![foto van het houdertje](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240519_180241.JPG?raw=true)
 ![foto van het houdertje](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240519_180243.JPG?raw=true)
@@ -10,12 +12,17 @@ Het idee was om de bordjes te graveren met een lasergraveermachine. Hierbij word
 ![foto van het houdertje](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240519_180237.JPG?raw=true)
 
 
-
 ## Budget
 
-Ronde stok beuken d = 12 mm, lengte 50 cm      € 0.94 per stuk
-Schaaflat vuren 18x117mm 210cm   €9,99, 36 bordjes --> 0,28/bordje
-laser time €35 -> 1h
+Prijzen zijn inclusief BTW.
+
+| Item                                                  | Te krijgen bij | Prijs per bordje |
+|:------------------------------------------------------|:--------------:|:-----------------|
+| Ronde stok beuken d=12 mm, lengte 50 cm               | Hornbach       | € 0,59           |
+| Schaaflat vuren d=18mm, w=117mm, l=210cm (28 bordjes) | Praxis         | € 0,36           |
+| gebruik lasergraveermachine, 1u à €19,05 (28 bordjes) | Qeske          | € 0,68           |
+|                                                       |----------------|------------------|
+|                                                       | **Totaal:**    | € 1,63           |
 
 
 ## Graveren van verschillende houtsoorten
@@ -65,6 +72,11 @@ Het stokje heeft een diameter van 12 mm. Snij het stokje met een stanleymesje ee
 - File -> Import; selecteer de DXF.
 - Check dat de lagen (kleuren) kloppen. Check de parameters (snelheid en power) voor de gekozen kleuren. De modus moet zijn: "scan" om op te vullen, "cut" voor alleen de outline.
 - Voor het instellen van de X-swing of Y-swing: dubbelklik op de kleur bovenin rechts, kies dan onder "Scan mode".
+
+
+## Dankbetuigingen
+
+Met dank aan de Tapijntuin, haar hardwerkende bestuur en alle vrijwilligers!
 
 
 ## Licentie
