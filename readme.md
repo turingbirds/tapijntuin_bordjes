@@ -84,7 +84,9 @@ Impressie van het vuren bordje na 10 maanden (augustus tot juni) buiten te hebbe
 
 ## Dankbetuigingen
 
-Met dank aan de Tapijntuin, haar hardwerkende bestuur en alle vrijwilligers!
+Met dank aan de [Tapijntuin](https://tapijntuin.nl/), haar hardwerkende bestuur en alle vrijwilligers!
+
+![foto van het meten van de boordiepte](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/TT_sponsoren-3275316257.jpg?raw=true)
 
 
 ## Licentie
