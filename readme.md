@@ -20,19 +20,21 @@ Prijzen zijn inclusief BTW.
 |:------------------------------------------------------|:--------------:|:-----------------|
 | Ronde stok beuken d=12 mm, lengte 50 cm               | Hornbach       | € 0,59           |
 | Schaaflat vuren d=18mm, w=117mm, l=210cm (28 bordjes) | Praxis         | € 0,36           |
-| gebruik lasergraveermachine, 1u à €19,05 (28 bordjes) | Qeske          | € 0,68           |
+| gebruik lasergraveermachine, 1u à €19,05 (4 bordjes)  | Qeske          | € 5,08           |
 |                                                       |----------------|------------------|
-|                                                       | **Totaal:**    | € 1,63           |
+|                                                       | **Totaal:**    | € 6,03           |
 
 
 ## Graveren van verschillende houtsoorten
 
-Bij het graveren is het handig om er twee keer overheen te gaan: één keer met de scan/swing in de X-richting, en éénmaal in de Y-richting.
+Bij het graveren kan het handig zijn om er twee keer overheen te gaan: één keer met de scan/swing in de X-richting, en éénmaal in de Y-richting.
 
 
 ### Movingui (links) + Vuren (rechts)
 
 ![foto movingui + vuren](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240517_201856.JPG?raw=true)
+
+Vuren is goedkoop, maar erg zacht hout en het contrast viel een beetje tegen. Voor de uiteindelijke bordjes is movingui gebruikt.
 
 
 ### Padauk (links: na; rechts: voor blootstelling aan zonlicht)
@@ -43,8 +45,12 @@ Bij het graveren is het handig om er twee keer overheen te gaan: één keer met 
 
 ## Nabehandeling met olie
 
-- Lijnzaadolie
-- Vaseline
+Het idee van het aanbrengen van olie is om het hout te beschermen tegen weersinvloeden, vooral regen. Let op: veel olieën, zoals bijvoorbeeld "gekookte lijnolie", bevatten additieven die in de regel giftig zijn.
+
+- Lijnolie (resultaat is vrij aan de gele kant)
+- Teakolie (deze methode is uiteindelijk gebruikt, middels het aanbrengen van één laag)
+- Vaseline (nog niet geprobeerd)
+
 
 
 ## Montage van het stokje
@@ -73,13 +79,14 @@ Impressie van het vuren bordje na 10 maanden (augustus tot juni) buiten te hebbe
 
 ## Ontwerp
 
-- Ontwerp de bordjes in Inkscape (versie ten minste 1.3.2). Sla op als SVG.
+- Ontwerp de bordjes in Inkscape (versie ten minste 1.3.2). De bordjes zijn net iets minder dan 11.5 cm breed (wat een standaardmaat is). Zorg ervoor dat de ruimte tussen de bordjes overeenkomt met de dikte van het zaagblad (in het geval mijn cirkelzaag was die 2.2 mm; ik heb 3.2 mm als afstand gekozen).
 - Voor alle tekstobjecten: convert to path.
-- Sla op als DXF ("DXF R14").
+- Sla het ontwerp op als SVG.
+- Sla op als kopie in DXF ("DXF R14") formaat.
 - Open RDWorksV8.
 - File -> Import; selecteer de DXF.
 - Check dat de lagen (kleuren) kloppen. Check de parameters (snelheid en power) voor de gekozen kleuren. De modus moet zijn: "scan" om op te vullen, "cut" voor alleen de outline.
-- Voor het instellen van de X-swing of Y-swing: dubbelklik op de kleur bovenin rechts, kies dan onder "Scan mode".
+- Voor het instellen van de X-swing of Y-swing: dubbelklik op de kleur bovenin rechts, kies dan onder "Scan mode". Vink "Independent output" uit.
 
 
 ## Dankbetuigingen
