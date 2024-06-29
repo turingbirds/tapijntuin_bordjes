@@ -14,15 +14,15 @@ Hoewel de bordjes misschien niet zo lang meegaan als plastic bordjes, zijn ze vo
 
 ## Budget
 
-Prijzen zijn inclusief BTW.
+Prijzen zijn inclusief BTW en exclusief verzendkosten.
 
-| Item                                                  | Te krijgen bij | Prijs per bordje |
-|:------------------------------------------------------|:--------------:|:-----------------|
-| Ronde stok beuken d=12 mm, lengte 50 cm               | Hornbach       | € 0,59           |
-| Schaaflat vuren d=18mm, w=117mm, l=210cm (28 bordjes) | Praxis         | € 0,36           |
-| gebruik lasergraveermachine, 1u à €19,05 (4 bordjes)  | Qeske          | € 5,08           |
-|                                                       |----------------|------------------|
-|                                                       | **Totaal:**    | € 6,03           |
+| Item                                                         | Te krijgen bij | Prijs per bordje |
+|:-------------------------------------------------------------|:---------------:|:----------------|
+| Ronde stok beuken d=12 mm, lengte 50 cm                      | Hornbach       | € 0,59           |
+| <s>Schaaflat vuren d=18mm, w=117mm, l=210cm (28 bordjes)</s> | Praxis         | € 0,36           |
+| Schaaflat movingui d=18mm, w=115mm, l=90cm (11 bordjes)      | Masave.nl      | € 2,20           |
+| gebruik lasergraveermachine, 1u à €19,05 (11 bordjes)        | Qeske          | € 1,73           |
+|                                                              | **Totaal:**    | € 4,52           |
 
 
 ## Graveren van verschillende houtsoorten
