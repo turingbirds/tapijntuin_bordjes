@@ -2,7 +2,7 @@
 
 Het doel was om natuurvriendelijke naambordjes te ontwikkelen voor de [Tapijntuin in Maastricht](https://tapijntuin.nl/). De naambordjes zijn er om de bedden te kunnen nummeren en zodat bezoekers kunnen lezen welke soorten er zoal groeien.
 
-Het idee was om de bordjes te graveren met een lasergraveermachine. Hierbij wordt geen afval gecreëerd. Het hout is massief (zonder lijm of andere toevoegingen) en het stokje wordt ook simpelweg geklemd, zonder lijm te hoeven gebruiken.
+Het idee was om houten bordjes te graveren met een lasergraveermachine. Hierbij wordt geen afval gecreëerd. Het hout is massief (zonder lijm of andere toevoegingen) en het stokje wordt ook simpelweg geklemd, zonder lijm te hoeven gebruiken.
 
 Hoewel de bordjes misschien niet zo lang meegaan als plastic bordjes, zijn ze volledig circulair doordat ze simpelweg op de composthoop kunnen als ze te verweerd zijn om nog goed te kunnen lezen.
 
