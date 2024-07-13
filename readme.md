@@ -108,4 +108,4 @@ Met dank aan de [Tapijntuin](https://tapijntuin.nl/), haar hardwerkende bestuur 
 
 ## Licentie
 
-[Open-source hardware](https://www.oshwa.org/) is hardware waarvan het ontwerp publiekelijk beschikbaar is, zodat iedereen het kan bestuderen, modificeren, bouwen en verkopen, onderhevig aan de *CERN Open Hardware Licence Version 2 - Weakly Reciprocal,* waarvan een (Engelstalige) kopie beschikbaar is op dit repository op [cern_ohl_w_v2.txt](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/cern_ohl_w_v2.txt>).
+[Open-source hardware](https://www.oshwa.org/) is hardware waarvan het ontwerp publiekelijk beschikbaar is, zodat iedereen het kan bestuderen, modificeren, bouwen en verkopen, onderhevig aan de *CERN Open Hardware Licence Version 2 - Weakly Reciprocal,* waarvan een (Engelstalige) kopie beschikbaar is op dit repository op [cern_ohl_w_v2.txt](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/cern_ohl_w_v2.txt).
