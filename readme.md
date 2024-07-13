@@ -41,6 +41,18 @@ Vuren is goedkoop, maar erg zacht hout en het contrast viel een beetje tegen. Vo
 ![foto padauk](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240517_201808.JPG?raw=true)
 
 
+## Ontwerp
+
+- Ontwerp de bordjes in Inkscape (versie ten minste 1.3.2). De bordjes zijn net iets minder dan 11.5 cm breed (wat een standaardmaat is). Zorg ervoor dat de ruimte tussen de bordjes overeenkomt met de dikte van het zaagblad plus marge (in het geval mijn afkortzaag was die 2.2 mm; ik heb 3.2 mm als afstand gekozen). Het aanbrengen van wat hulplijntjes, bijvoorbeeld halverwege precies tussen twee bordjes is, is erg fijn bij het nabewerken.
+- Voor alle tekstobjecten: convert to path.
+- Sla het ontwerp op als SVG.
+- Sla op als kopie in DXF ("DXF R14") formaat.
+- Open RDWorksV8.
+- File -> Import; selecteer de DXF.
+- Check dat de lagen (kleuren) kloppen. Check de parameters (snelheid en power) voor de gekozen kleuren. De modus moet zijn: "scan" om op te vullen, "cut" voor alleen de outline.
+- Voor het instellen van de X-swing of Y-swing: dubbelklik op de kleur bovenin rechts, kies dan onder "Scan mode". Vink "Independent output" uit.
+
+
 ## Nabewerking
 
 ### Schuren
@@ -85,18 +97,6 @@ Het stokje heeft een diameter van 12 mm. Snij het stokje met een stanleymesje ee
 Impressie van het vuren bordje na 10 maanden (augustus tot juni) buiten te hebben gestaan:
 
 ![foto van het verweerde bordje](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240522_140526.JPG?raw=true)
-
-
-## Ontwerp
-
-- Ontwerp de bordjes in Inkscape (versie ten minste 1.3.2). De bordjes zijn net iets minder dan 11.5 cm breed (wat een standaardmaat is). Zorg ervoor dat de ruimte tussen de bordjes overeenkomt met de dikte van het zaagblad plus marge (in het geval mijn afkortzaag was die 2.2 mm; ik heb 3.2 mm als afstand gekozen). Het aanbrengen van wat hulplijntjes, bijvoorbeeld halverwege precies tussen twee bordjes is, is erg fijn bij het nabewerken.
-- Voor alle tekstobjecten: convert to path.
-- Sla het ontwerp op als SVG.
-- Sla op als kopie in DXF ("DXF R14") formaat.
-- Open RDWorksV8.
-- File -> Import; selecteer de DXF.
-- Check dat de lagen (kleuren) kloppen. Check de parameters (snelheid en power) voor de gekozen kleuren. De modus moet zijn: "scan" om op te vullen, "cut" voor alleen de outline.
-- Voor het instellen van de X-swing of Y-swing: dubbelklik op de kleur bovenin rechts, kies dan onder "Scan mode". Vink "Independent output" uit.
 
 
 ## Dankbetuigingen
