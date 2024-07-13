@@ -16,26 +16,24 @@ Hoewel de bordjes misschien niet zo lang meegaan als plastic bordjes, zijn ze vo
 
 Prijzen zijn inclusief BTW en exclusief verzendkosten.
 
-| Item                                                         | Te krijgen bij  | Prijs per bordje |
-|:-------------------------------------------------------------|:---------------:|:-----------------|
-| Ronde stok beuken d=12 mm, lengte 50 cm                      | Hornbach        | € 0,59           |
-| <s>Schaaflat vuren d=18mm, w=117mm, l=210cm (28 bordjes)</s> | Praxis          | <s>€ 0,36</s>    |
-| Schaaflat movingui d=18mm, w=115mm, l=90cm (11 bordjes)      | Masave.nl       | € 2,20           |
-| gebruik lasergraveermachine, 1u à €19,05 (11 bordjes)        | Qeske           | € 1,73           |
-|                                                              |                 |                  |
-|                                                              | **Totaal:**     | € 4,52           |
+| Item                                                         | Te krijgen bij   | Prijs per bordje |
+|:-------------------------------------------------------------|:----------------:|:-----------------|
+| Ronde stok beuken d=12 mm, lengte 50 cm                      | Hornbach         | € 0,59           |
+| <s>Schaaflat vuren d=18mm, b=117mm, l=210cm (28 bordjes)</s> | Praxis           | <s>€ 0,36</s>    |
+| Schaaflat movingui d=18mm, b=115mm, l=90cm (11 bordjes)      | Masave.nl        | € 2,20           |
+| gebruik lasergraveermachine, 1u à €19,05 (11 bordjes)        | Qeske Maastricht | € 1,73           |
+| teakolie (optioneel)                                         |                  | €    ?           |
+|                                                              |                  |                  |
+|                                                              | **Totaal:**      | € 4,52           |
 
 
 ## Graveren van verschillende houtsoorten
 
-Bij het graveren kan het handig zijn om er twee keer overheen te gaan: één keer met de scan/swing in de X-richting, en éénmaal in de Y-richting.
-
+Vuren is goedkoop, maar erg zacht hout en het contrast viel een beetje tegen. Voor de uiteindelijke bordjes is movingui gebruikt.
 
 ### Movingui (links) + Vuren (rechts)
 
 ![foto movingui + vuren](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240517_201856.JPG?raw=true)
-
-Vuren is goedkoop, maar erg zacht hout en het contrast viel een beetje tegen. Voor de uiteindelijke bordjes is movingui gebruikt.
 
 
 ### Padauk (links: na; rechts: voor blootstelling aan zonlicht)
@@ -43,8 +41,20 @@ Vuren is goedkoop, maar erg zacht hout en het contrast viel een beetje tegen. Vo
 ![foto padauk](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240517_201808.JPG?raw=true)
 
 
+## Nabewerking
 
-## Nabehandeling met olie
+### Schuren
+
+Het laseren zorgt ervoor dat er wat hars en rookaanslag ontstaat rondom waar gegraveerd is. Dit valt makkelijk weg te halen door eventjes licht op te schuren met 180 korrel schuurpapier.
+
+![voor en na het schuren](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240713_142344.JPG?raw=true)
+
+Vóór het schuren (rechts). Na het schuren (links).
+
+Na het uitsnijden van de bordjes middels de afkortzaag, komt de bandschuurmachine erg van pas om snel de ronde hoekjes te maken, en spliters en ruwe randen eraf te halen.
+
+
+### Nabehandeling met olie
 
 Het idee van het aanbrengen van olie is om het hout te beschermen tegen weersinvloeden, vooral regen. Let op: veel olieën, zoals bijvoorbeeld "gekookte lijnolie", bevatten additieven die in de regel giftig zijn.
 
@@ -53,10 +63,9 @@ Het idee van het aanbrengen van olie is om het hout te beschermen tegen weersinv
 - Vaseline (nog niet geprobeerd)
 
 
+### Montage van het stokje
 
-## Montage van het stokje
-
-Het hout is 15 mm dik. Op een hoek van 45 kan tot ongeveer 20 mm ingeboord worden.
+Het hout is 15 mm dik. Op een hoek van 45° kan tot ongeveer 20 mm ingeboord worden.
 
 ![foto van het houdertje](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240517_201923.JPG?raw=true)
 
@@ -80,7 +89,7 @@ Impressie van het vuren bordje na 10 maanden (augustus tot juni) buiten te hebbe
 
 ## Ontwerp
 
-- Ontwerp de bordjes in Inkscape (versie ten minste 1.3.2). De bordjes zijn net iets minder dan 11.5 cm breed (wat een standaardmaat is). Zorg ervoor dat de ruimte tussen de bordjes overeenkomt met de dikte van het zaagblad (in het geval mijn cirkelzaag was die 2.2 mm; ik heb 3.2 mm als afstand gekozen).
+- Ontwerp de bordjes in Inkscape (versie ten minste 1.3.2). De bordjes zijn net iets minder dan 11.5 cm breed (wat een standaardmaat is). Zorg ervoor dat de ruimte tussen de bordjes overeenkomt met de dikte van het zaagblad plus marge (in het geval mijn afkortzaag was die 2.2 mm; ik heb 3.2 mm als afstand gekozen). Het aanbrengen van wat hulplijntjes, bijvoorbeeld halverwege precies tussen twee bordjes is, is erg fijn bij het nabewerken.
 - Voor alle tekstobjecten: convert to path.
 - Sla het ontwerp op als SVG.
 - Sla op als kopie in DXF ("DXF R14") formaat.
