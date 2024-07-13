@@ -57,13 +57,11 @@ Vuren is goedkoop, maar erg zacht hout en het contrast viel een beetje tegen. Vo
 
 ### Schuren
 
-Het laseren zorgt ervoor dat er wat hars en rookaanslag ontstaat rondom waar gegraveerd is. Dit valt makkelijk weg te halen door eventjes licht op te schuren met 180 korrel schuurpapier.
+Het laseren zorgt ervoor dat er wat hars en rookaanslag ontstaat rondom waar gegraveerd is. Dit valt makkelijk weg te halen door eventjes licht op te schuren met 180 korrel schuurpapier. Vóór het schuren (rechts); na het schuren (links):
 
 ![voor en na het schuren](https://github.com/turingbirds/tapijntuin_bordjes/blob/main/fig/20240713_142344.JPG?raw=true)
 
-Vóór het schuren (rechts). Na het schuren (links).
-
-Na het uitsnijden van de bordjes middels de afkortzaag, komt de bandschuurmachine erg van pas om snel de ronde hoekjes te maken, en spliters en ruwe randen eraf te halen.
+Na het uitsnijden van de bordjes middels de afkortzaag, komt de bandschuurmachine erg van pas om snel de ronde hoekjes te maken, en splinters en ruwe randen eraf te halen.
 
 
 ### Nabehandeling met olie
